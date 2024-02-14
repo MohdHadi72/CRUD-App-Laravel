@@ -2,7 +2,8 @@
 Add Data List
 <br>
 
-![image](https://github.com/MohdHadi72/Laravel-CRUD-App/assets/154020781/2777cf73-cedc-40ae-af0d-3ee56d3a02a2)
+![image](https://github.com/MohdHadi72/Laravel-CRUD-App/assets/154020781/5be6ee91-cc66-4684-acdb-8083afd9ecb2)
+
 
 Update Data List
 <br>
